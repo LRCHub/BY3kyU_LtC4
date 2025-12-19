@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "シェキララ",
+  "base_artist": "Chilli Beans.",
+  "createdAt": "2025-12-19T11:49:52.557245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シェキララ",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/01_シェキララ_Chilli_Beans..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シェキララ - Acoustic version",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/02_シェキララ_-_Acoustic_version_Chilli_Beans..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シェキララ - Shakilala",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/03_シェキララ_-_Shakilala_Chilli_Beans..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シェキララ",
+      "artist": "Chilli Beans.",
+      "has_synced": false,
+      "path": "select/pl_01_シェキララ_Chilli_Beans..txt"
+    }
+  ]
+}
